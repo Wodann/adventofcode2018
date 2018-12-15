@@ -9,3 +9,4 @@ Puzzle | Src
 [Day 3: No Matter How You Slice It](https://adventofcode.com/2018/day/3) | [&#128194;](https://github.com/Wodann/adventofcode2018/blob/master/src/bin/day3.rs)
 [Day 4: Repose Record](https://adventofcode.com/2018/day/4) | [&#128194;](https://github.com/Wodann/adventofcode2018/blob/master/src/bin/day4.rs)
 [Day 5: Alchemical Reduction](https://adventofcode.com/2018/day/5) | [&#128194;](https://github.com/Wodann/adventofcode2018/blob/master/src/bin/day5.rs)
+[Day 6: Chronal Coordinates](https://adventofcode.com/2018/day/6) | [&#128194;](https://github.com/Wodann/adventofcode2018/blob/master/src/bin/day6.rs)
