@@ -12,3 +12,4 @@ Puzzle | Src
 [Day 6: Chronal Coordinates](https://adventofcode.com/2018/day/6) | [&#128194;](https://github.com/Wodann/adventofcode2018/blob/master/src/bin/day6.rs)
 [Day 7: The Sum of Its Parts](https://adventofcode.com/2018/day/7) | [&#128194;](https://github.com/Wodann/adventofcode2018/blob/master/src/bin/day7.rs)
 [Day 8: Memory Maneuver](https://adventofcode.com/2018/day/8) | [&#128194;](https://github.com/Wodann/adventofcode2018/blob/master/src/bin/day8.rs)
+[Day 9: Marble Mania](https://adventofcode.com/2018/day/9) | [&#128194;](https://github.com/Wodann/adventofcode2018/blob/master/src/bin/day9.rs)
